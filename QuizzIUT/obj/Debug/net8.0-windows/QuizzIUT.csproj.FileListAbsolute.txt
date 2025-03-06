@@ -1,0 +1,60 @@
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.exe
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.deps.json
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.runtimeconfig.json
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.dll
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.pdb
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\MainWindow.g.cs
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\App.g.cs
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT_MarkupCompile.cache
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT_MarkupCompile.lref
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\MainWindow.baml
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.g.resources
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.AssemblyInfoInputs.cache
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.AssemblyInfo.cs
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.csproj.CoreCompileInputs.cache
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.dll
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\refint\QuizzIUT.dll
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.pdb
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.genruntimeconfig.cache
+Z:\BUT 1\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\ref\QuizzIUT.dll
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.exe
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.deps.json
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.runtimeconfig.json
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.dll
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.pdb
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT_MarkupCompile.cache
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT_MarkupCompile.lref
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.g.resources
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.AssemblyInfoInputs.cache
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.AssemblyInfo.cs
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.csproj.CoreCompileInputs.cache
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.dll
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\refint\QuizzIUT.dll
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.pdb
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.genruntimeconfig.cache
+C:\Users\heder\Documents\Cours\S2\IHM\TP2\QuizzIUT\obj\Debug\net8.0-windows\ref\QuizzIUT.dll
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.exe
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.deps.json
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.runtimeconfig.json
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.dll
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\bin\Debug\net8.0-windows\QuizzIUT.pdb
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\MainWindow.g.cs
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\App.g.cs
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT_MarkupCompile.cache
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT_MarkupCompile.lref
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\MainWindow.baml
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.g.resources
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.AssemblyInfoInputs.cache
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.AssemblyInfo.cs
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.csproj.CoreCompileInputs.cache
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.dll
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\refint\QuizzIUT.dll
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.pdb
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\QuizzIUT.genruntimeconfig.cache
+Z:\BUT 1\S2\IHM\tpihm2\QuizzIUT\obj\Debug\net8.0-windows\ref\QuizzIUT.dll
